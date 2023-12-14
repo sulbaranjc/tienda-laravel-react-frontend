@@ -1,4 +1,4 @@
-import './customcss/style.css'
+//import './customcss/style.css'
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
 //importar nuestros componentes
